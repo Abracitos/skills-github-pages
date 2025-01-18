@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -92,7 +93,6 @@
 
     // Function for the "Yes" button
     function showLoveMessage() {
-      console.log('Yes button clicked!');  // Debugging line
       alert("Yay! I knew you'd say yes! 💖 You're the best Valentine ever! 🥰");
     }
   </script>
