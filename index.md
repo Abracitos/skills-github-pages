@@ -7,5 +7,3 @@ There’s only one question I need to ask...
 (P.S. You can’t say no 😉)
 
 [Yes! Click here!](#yay)
-
-<h1 id="yay">Yay! 💕 You’re the best!</h1>
